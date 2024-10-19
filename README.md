@@ -1,6 +1,6 @@
 # Banking Software
 
-This is a banking application developed using Java and Spring Boot. It supports essential banking operations, allowing you to manage accounts, perform transactions, and view account details.
+This is a banking application developed using Java and Spring Boot. It supports essential banking operations, allowing you to manage accounts, perform transactions, and view account details. Team Project.
 
 ## Features
 
@@ -37,4 +37,4 @@ This is a banking application developed using Java and Spring Boot. It supports 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/banking-software.git
+   git clone [https://github.com/your-repo/banking-software.git](https://github.com/theBhavyaaggarwal81/Banking_Application_SpringBoot.git)
